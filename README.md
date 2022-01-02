@@ -13,4 +13,4 @@
 
 ### About Me
 
-- https://yoonsang.notion.site/Yoonsang-Yang-a42a8dc94ec44ce6b1f0749a86c2ae6f
+- https://url.kr/xyb7wd
