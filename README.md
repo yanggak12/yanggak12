@@ -12,4 +12,4 @@
 
 ### About Me
 
-- https://url.kr/b7veyz
+- https://url.kr/hrsxu6
