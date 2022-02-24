@@ -13,3 +13,7 @@
 ### About Me
 
 - https://url.kr/hrsxu6
+
+### LinkedIn
+
+- https://www.linkedin.com/in/yanggak12
