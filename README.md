@@ -14,6 +14,6 @@
 
 - https://url.kr/hrsxu6
 
-### LinkedIn
+### Linkedin
 
 - https://www.linkedin.com/in/yanggak12
