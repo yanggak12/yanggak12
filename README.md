@@ -12,7 +12,7 @@
 
 ### About Me
 
-- https://url.kr/hrsxu6
+- https://bit.ly/38mx6XE
 
 ### Linkedin
 
