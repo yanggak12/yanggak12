@@ -6,14 +6,17 @@
 - 📱 I’m currently learning about web and mobile.
 - 🤩 I want to make a product that is meaningful to everyone.
 
-### My Blog
-
-- https://yanggak.tistory.com
-
 ### About Me
-
 - https://bit.ly/38mx6XE
 
-### Linkedin
+### My Blog
+- https://yanggak.tistory.com
 
+### Linkedin
 - https://www.linkedin.com/in/yanggak12
+-----
+<div align="center">
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="400" height="500" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yanggak12&theme=dark&show_icons=true" alt="stats" width="400" height="250"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanggak12&layout=compact&hide=html&langs_count=3&line" alt="language" width="400" height="250" />
+</div>
