@@ -3,7 +3,7 @@
 👋 Hi, there.
 - 💻 I’m a Front-End developer.
 - 📘 I'm using React & React Native with TypeScript.
-- 📱 I’m currently learning about web and mobile.
+- 📱 I’m currently learning about web and mobile development.
 - 🤩 I want to make a product that is meaningful to everyone.
 
 ### About Me
