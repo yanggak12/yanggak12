@@ -7,7 +7,7 @@
 - 🤩 I want to make a product that is meaningful to everyone.
 
 ### About Me
-- https://bit.ly/38mx6XE
+- https://bit.ly/yoonsang-yang
 
 ### My Blog
 - https://yanggak.tistory.com
