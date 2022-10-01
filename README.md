@@ -2,8 +2,8 @@
 
 👋 Hi, there.
 - 💻 I’m a Front-End developer.
-- 📘 I'm using React & React Native with TypeScript.
-- 📱 I’m currently learning about web and mobile development.
+- 📘 I'm using React with TypeScript.
+- 🌴 I'm currently interested in AWS with Front-End.
 - 🤩 I want to make a product that is meaningful to everyone.
 
 ### About Me
