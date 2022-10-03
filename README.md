@@ -1,7 +1,7 @@
-### Yoonsang's Record
+### Yoonsang Yang
 
 👋 Hi, there.
-- 💻 I’m a Front-End developer.
+- 💻 I’m a Front-End Engineer.
 - 📘 I'm using React with TypeScript.
 - 🌴 I'm currently interested in AWS with Front-End.
 - 🤩 I want to make a product that is meaningful to everyone.
