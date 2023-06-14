@@ -6,12 +6,6 @@
 - 🌴 I'm currently interested in AWS with Front-End.
 - 🤩 I want to make a product that is meaningful to everyone.
 
-### About Me
-- https://bit.ly/yoonsang-yang
-
-### My Blog
-- https://yanggak.tistory.com
-
 ### Linkedin
 - https://www.linkedin.com/in/yanggak12
 -----
